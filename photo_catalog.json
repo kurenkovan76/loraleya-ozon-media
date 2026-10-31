@@ -1,0 +1,122 @@
+[
+  {
+    "sku": "LL-4Кв7004",
+    "path": "images/LL-4KV7004/01.jpg",
+    "size": 308935,
+    "sha256": "945219f5bb494770c81c7ca395d527c6b7a6d00111eefa20423c1313d9a7d82e"
+  },
+  {
+    "sku": "LL-4Кв7004",
+    "path": "images/LL-4KV7004/02.jpg",
+    "size": 399059,
+    "sha256": "0d5d4ad18ca985009f4e2ccd26055b0f426098ee3d0365db657694ecdcbc2d62"
+  },
+  {
+    "sku": "LL-4Кв7004",
+    "path": "images/LL-4KV7004/03.jpg",
+    "size": 686685,
+    "sha256": "1ff21fa28aa16986fc129a52ed7eb56833654aff1e23068827064d994eb1a43b"
+  },
+  {
+    "sku": "LL-4Кв7004",
+    "path": "images/LL-4KV7004/04.jpg",
+    "size": 318775,
+    "sha256": "a79dfc3cb4d20c31a4f25bc4293cc829fe6de43e32cda0203168ed2110e1d362"
+  },
+  {
+    "sku": "LL-4Кв1031",
+    "path": "images/LL-4KV1031/01.jpg",
+    "size": 391849,
+    "sha256": "1d37267cfe69b7b0b725682c280c9add27e3f7bb50779d64943bdd81f85df074"
+  },
+  {
+    "sku": "LL-4Кв1031",
+    "path": "images/LL-4KV1031/02.jpg",
+    "size": 606410,
+    "sha256": "a79a59ca28bad8ccb09060f6aee3469cfe6ba3b496d931fbc999f8379320e956"
+  },
+  {
+    "sku": "LL-4Кв1031",
+    "path": "images/LL-4KV1031/03.jpg",
+    "size": 701040,
+    "sha256": "09123c94eb9e057655fe3a743d3756efe4887d0682df175e44fa6b1e88d91a2a"
+  },
+  {
+    "sku": "LL-4Кв1031",
+    "path": "images/LL-4KV1031/04.jpg",
+    "size": 604062,
+    "sha256": "7fdd38cf858711e3758323b5cb17ded8f82a693b2bf57e9ff7624c25cd13e4db"
+  },
+  {
+    "sku": "LL-4Кв1031",
+    "path": "images/LL-4KV1031/05.jpg",
+    "size": 366539,
+    "sha256": "5621542f3fde104f2e4d1a9beda8403966ea38e9122277ad7e41c734c868e9ea"
+  },
+  {
+    "sku": "LL-4Кв1031",
+    "path": "images/LL-4KV1031/06.jpg",
+    "size": 547948,
+    "sha256": "0c1ea8c3287cd9b3578022c66f075fbc950c5fb98a5bbae243e4ca79d22c785a"
+  },
+  {
+    "sku": "LL-240Дрк1031",
+    "path": "images/LL-240DRK1031/01.jpg",
+    "size": 547446,
+    "sha256": "b7a4a7e51bb668b958b8a3b953f11444f2b14b43813f8275f7168f8285efaf03"
+  },
+  {
+    "sku": "LL-240Дрк1031",
+    "path": "images/LL-240DRK1031/02.jpg",
+    "size": 408668,
+    "sha256": "452c7c1d16e8139d94efa4099719e4e1734b747d1e4ba8a3ccb6196e5970cc15"
+  },
+  {
+    "sku": "LL-240Дрк1031",
+    "path": "images/LL-240DRK1031/03.jpg",
+    "size": 520911,
+    "sha256": "f593fe79988fa44bd42de9f58878d95bea8ed54a1e1c4e40011dd02a207670c3"
+  },
+  {
+    "sku": "LL-240Дрк1031",
+    "path": "images/LL-240DRK1031/04.jpg",
+    "size": 649462,
+    "sha256": "8c9e30d74b5a91924b2cd8dba108ad28dc864a0dff0a170bc0b0679392948f1d"
+  },
+  {
+    "sku": "LL-240Дрк1031",
+    "path": "images/LL-240DRK1031/05.jpg",
+    "size": 564657,
+    "sha256": "a4d0535825456dcce55a4017487939ee3be748166ffc08ad02852fa00ec14a32"
+  },
+  {
+    "sku": "LL-4Кв1010",
+    "path": "images/LL-4KV1010/01.jpg",
+    "size": 320392,
+    "sha256": "8e4f9036497645582b7c3f5cfb96869d12f1fed075275be550e2a3976f74ee10"
+  },
+  {
+    "sku": "LL-4Кв1010",
+    "path": "images/LL-4KV1010/02.jpg",
+    "size": 274170,
+    "sha256": "11d040a18006e9df609c882663a47b6fd978cc51d9bc41fd5320a997b5398fde"
+  },
+  {
+    "sku": "LL-4Кв1010",
+    "path": "images/LL-4KV1010/03.jpg",
+    "size": 329994,
+    "sha256": "1dba9e638b743e0252f0127ee41b5abc18429d96d93f48c0fa557e37c8c1ccb4"
+  },
+  {
+    "sku": "LL-4Кв1010",
+    "path": "images/LL-4KV1010/04.jpg",
+    "size": 358065,
+    "sha256": "7fde35f39f7c9e4f75cebe6938efaad63168ba012319225ebe1e86457ce77519"
+  },
+  {
+    "sku": "LL-4Кв1010",
+    "path": "images/LL-4KV1010/05.jpg",
+    "size": 407706,
+    "sha256": "2b76bb3b0543c5fee79fa0db838f888e8309eca1e1091348ced8986ffc9aee3f"
+  }
+]
